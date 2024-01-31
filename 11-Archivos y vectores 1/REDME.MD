@@ -6,6 +6,7 @@
 Se pide:
 
 a)       Ordenar el Archivo por Opiones Positivas
+
 b)       Listar las 10 películas que más vistas tuvieron (al listar incluir toda la información referente a la película)
 
 Nota: Sólo debe leer 1 vez el archivo. Se sabe que no hay más de 50 películas.
