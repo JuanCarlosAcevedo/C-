@@ -3,13 +3,13 @@
 ##del registro de este archivo es el siguiente:
 
 
-COD_JUG: Código del Jugador / Número
-SELECCIÓN: ID de la Selección en la que juegan / Número
-EDAD: Edad / Numérico
-ALTURA: Estatura del jugador / Número decimal
+- COD_JUG: Código del Jugador / Número
+- SELECCIÓN: ID de la Selección en la que juegan / Número
+- EDAD: Edad / Numérico
+- ALTURA: Estatura del jugador / Número decimal
 
 
-##Se pide realizar un programa que lea ese archivo y genere dos vectores nuevos. El primero (SUB23. que contenga todos los Jugadores de hasta 23 años. 
+## Se pide realizar un programa que lea ese archivo y genere dos vectores nuevos. El primero (SUB23. que contenga todos los Jugadores de hasta 23 años. 
 ##Con el siguiente formato:
 
 
@@ -19,11 +19,11 @@ EDAD: Edad / Numérico
 ALTURA: Estatura del jugador / Número decimal
 
 
-##El segundo (MAY180) que contenga los Jugadores que miden más de 1,80m el siguiente formato:
+## El segundo (MAY180) que contenga los Jugadores que miden más de 1,80m el siguiente formato:
 
 COD_JUG: Código del Jugador / Número
 SELECCIÓN: ID de la Selección en la que juegan / Número
 EDAD: Edad / Numérico
 
 
-##Se sabe que máximo hay 100 registros en el archivo.
+## Se sabe que máximo hay 100 registros en el archivo.
