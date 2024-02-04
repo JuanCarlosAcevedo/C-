@@ -1,5 +1,5 @@
 
-##Se tiene un archivo de registros de tamaño fijo de los jugadores convocados a la Copa América 2021 con nombre Jugadores2021.DAT. El formato 
+## Se tiene un archivo de registros de tamaño fijo de los jugadores convocados a la Copa América 2021 con nombre Jugadores2021.DAT. El formato 
 ##del registro de este archivo es el siguiente:
 
 
