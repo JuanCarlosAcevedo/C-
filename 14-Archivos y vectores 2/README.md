@@ -9,7 +9,7 @@
 - ALTURA: Estatura del jugador / Número decimal
 
 
-## Se pide realizar un programa que lea ese archivo y genere dos vectores nuevos. El primero (SUB23. que contenga todos los Jugadores de hasta 23 años. 
+## Se pide realizar un programa que lea ese archivo y genere dos vectores nuevos. El primero (que contenga todos los Jugadores de hasta 23 años). 
 ## Con el siguiente formato:
 
 
@@ -19,7 +19,7 @@
 - ALTURA: Estatura del jugador / Número decimal
 
 
-## El segundo (MAY180) que contenga los Jugadores que miden más de 1,80m el siguiente formato:
+## El segundo que contenga los Jugadores que miden más de 1,80m el siguiente formato:
 
 - COD_JUG: Código del Jugador / Número
 - SELECCIÓN: ID de la Selección en la que juegan / Número
