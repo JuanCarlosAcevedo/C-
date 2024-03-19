@@ -11,7 +11,7 @@ void mostrar(nodo *listaX);
 using namespace std;
 
 int main(){
-    /*creacion y carga de un archivo, con datos introducidos por el usuario, lo comento para que no interfiera con el codigo al momento de ordenar
+    /*creacion y carga de un archivo, con datos introducidos por el usuario. Lo comento para que no interfiera con el codigo al momento de ordenar
     int carga;
     FILE *ent;
 
